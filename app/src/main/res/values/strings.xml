@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Android Academy HomeWork1</string>
+    <string name="meetup_description">
+        Рекламируя вашему другу Kotlin, как замену Java, наверняка первым аргументом будет тот самый синтаксический сахар, от которого мы получаем профит каждый день: поддержка nullability из коробки, аргументы по умолчанию, свойства-делегаты, data и sealed классы и т.д. Но если нам понадобится прикрутить к проекту процессор аннотаций, то, к сожалению, вся информация, которую получится собрать о нашем коде, будет Java-специфична, а Kotlin-фичи останутся незамеченными. В этом докладе мы выясним, как использовать метаданные, добавляемые Kotlin-компилятором к коду, чтобы получить информацию об использованных особенностях языка, и как использовать её во время обработки аннотаций.
+    </string>
+    <string name="meetup_author">Sergey Ryabov</string>
+    <string name="main_activity_android_button">Android</string>
+    <string name="main_activity_all_text_button">Все доклады</string>
+    <string name="meetup_title">Kotlin-friendly Annotation Processing</string>
+    <string name="author_surname">RYABOV</string>
+    <string name="author_name">SERGEY</string>
+    <string name="author_work">Digital Nomad, Russia</string>
+    <string name="author_status">Mobile Consultant</string>
+</resources>
