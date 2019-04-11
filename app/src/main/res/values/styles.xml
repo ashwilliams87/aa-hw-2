@@ -18,4 +18,9 @@
         <item name="colorControlHighlight">@color/colorBlueLitle</item>
     </style>
 
+    <style name="PurpleButton" parent="Theme.AppCompat">
+        <item name="colorButtonNormal">@color/colorPurpleLitle</item>
+        <item name="colorControlHighlight">@color/colorPurpleLitle</item>
+    </style>
+
 </resources>

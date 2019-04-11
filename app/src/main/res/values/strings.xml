@@ -11,4 +11,9 @@
     <string name="author_name">SERGEY</string>
     <string name="author_work">Digital Nomad, Russia</string>
     <string name="author_status">Mobile Consultant</string>
+    <string name="author_telegram">author telegram</string>
+    <string name="author_twitter">author twitter</string>
+    <string name="author_description"><![CDATA[Currently Sergey is an independent Android Engineer and Consultant with the background in backend dev. Co-organiser of the first Kotlin User Group in Russia and Android Academy in St. Petersburg and Moscow, usually speaks about Kotlin & Android. Kotlin early adopter, digital nomad.]]></string>
+    <string name="metup_title">Kotlin-friendly Annotation Processing</string>
+    <string name="room_1">Room 1</string>
 </resources>
